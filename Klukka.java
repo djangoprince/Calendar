@@ -5,12 +5,7 @@ import java.awt.event.*;
 import java.util.*;
 import java.text.SimpleDateFormat;
 
-// Tilvik af klasanum Klukka eru klukkur sem láta
-// vita af því þegar klukkan breytist, á tilteknum
-// fresti.  Einnig inniheldur klasinn fall sem skilar
-// tímanum á textasniði.
 
-// Höfundur: Snorri Agnarsson
 
 public class Klukka
 {
